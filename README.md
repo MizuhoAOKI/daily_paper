@@ -87,4 +87,3 @@ daily paper reading list on autonomous driving and robotics
 |Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback|[Link](https://arxiv.org/abs/2307.15217)|
 |State of the art and future trends in obstacle-surmounting unmanned ground vehicle configuration and dynamics|[Link](https://www.cambridge.org/core/journals/robotica/article/state-of-the-art-and-future-trends-in-obstaclesurmounting-unmanned-ground-vehicle-configuration-and-dynamics/770A724BF101AE02434A71B8AF6AA475)|
 |Trajectory Forecasting Considering Interactions between Moving Targets Using Deep Learning: A Survey|[Link](https://search.ieice.org/bin/summary.php?id=j105-d_5_372)|
-||
