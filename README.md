@@ -3,7 +3,7 @@
 daily paper reading list on **"Autonomous Driving"** and **"Robotics"**
 
 ## Find Paper by Tags
-- [Autonomous Racing](#Autonomous&nbsp;Racing)
+- [Autonomous Racing](#Autonomous-Racing)
 - [Model Predictive Path-Integral Controller](#Model&nbsp;Predictive&nbsp;Path-Integral&nbsp;Controller)
 - [Gaussian](#Gaussian)
 - [Survey](#Survey)
