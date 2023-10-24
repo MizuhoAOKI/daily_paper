@@ -3,13 +3,13 @@
 Daily paper reading list on **Autonomous Driving** and **Robotics**.
 
 ## Find Paper by Tags
-- [Autonomous Racing](#Autonomous Racing)
-- [Model Predictive Path-Integral Controller](#Model Predictive Path Integral Controller)
+- [Autonomous Racing](#Autonomous-Racing)
+- [Model Predictive Path Integral Controller](#Model-Predictive-Path-Integral-Controller)
 - [Gaussian](#Gaussian)
 - [Survey](#Survey)
-- [4-Wheel Independent Drive and Steering Vehicle](#4-Wheel Independent Drive and Steering Vehicle)
-- [HumanMachineInteraction](#Human Machine Interaction)
-- [Vehicle Model](#Vehicle Model)
+- [Four Wheel Independent Drive and Steering Vehicle](#Four-Wheel-Independent-Drive-and-Steering-Vehicle)
+- [HumanMachineInteraction](#Human-Machine-Interaction)
+- [Vehicle Model](#Vehicle-Model)
 
 ## All Paper List
 
@@ -127,7 +127,7 @@ Daily paper reading list on **Autonomous Driving** and **Robotics**.
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
 | <a href='https://arxiv.org/abs/2303.05665' target='_blank' rel='noopener noreferrer' >A Systematic Survey of Control Techniques and Applications in Connected and Automated Vehicles</a>                                                                                                                                                                                      | <a href='https://arxiv.org/abs/2303.05665' target='_blank' rel='noopener noreferrer' >![PDF](https://img.shields.io/badge/-PDF-important?style=for-the-badge)</a> |          |
 | <a href='https://www.cambridge.org/core/journals/robotica/article/state-of-the-art-and-future-trends-in-obstaclesurmounting-unmanned-ground-vehicle-configuration-and-dynamics/770A724BF101AE02434A71B8AF6AA475' target='_blank' rel='noopener noreferrer' >State of the art and future trends in obstacle-surmounting unmanned ground vehicle configuration and dynamics</a> |                                                                                                                                                                   |          |
-## 4-Wheel Independent Drive and Steering Vehicle
+## Four Wheel Independent Drive and Steering Vehicle
 
 | Title                                                                                                                                                                                                                                                                                                                                                                         | PDF                                                                                                                                                                                          | Others   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
