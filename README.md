@@ -4,7 +4,7 @@ daily paper reading list on **Autonomous Driving** and **Robotics**.
 
 ## Find Paper by Tags
 - [Autonomous Racing](#Autonomous Racing)
-- [Model Predictive Path-Integral Controller](#Model Predictive Path-Integral Controller)
+- [Model Predictive Path-Integral Controller](#Model Predictive Path Integral Controller)
 - [Gaussian](#Gaussian)
 - [Survey](#Survey)
 - [4-Wheel Independent Drive and Steering Vehicle](#4-Wheel Independent Drive and Steering Vehicle)
@@ -97,7 +97,7 @@ daily paper reading list on **Autonomous Driving** and **Robotics**.
 | <a href='https://ieeexplore.ieee.org/document/10186701' target='_blank' rel='noopener noreferrer' >Online Time-Optimal Trajectory Planning on Three-Dimensional Race Tracks</a>                                                                |                                                                                                                                                                   |          |
 | <a href='https://ieeexplore.ieee.org/document/10186780' target='_blank' rel='noopener noreferrer' >A Benchmark Comparison of Imitation Learning-based Control Policies for Autonomous Racing</a>                                               |                                                                                                                                                                   |          |
 | <a href='https://ieeexplore.ieee.org/document/10160799' target='_blank' rel='noopener noreferrer' >A Sequential Quadratic Programming Approach to the Solution of Open-Loop Generalized Nash Equilibria</a>                                    |                                                                                                                                                                   |          |
-## Model Predictive Path-Integral Controller
+## Model Predictive Path Integral Controller
 
 | Title                                                                                                                                                                                                      | PDF                                                                                                                                                                                 | Others   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
