@@ -1,6 +1,6 @@
 
 # Daily Paper
-Daily paper reading list on **Autonomous Driving** and **Robotics**.
+Daily paper reading list on **Autonomous Driving** and **Robotics**, updating continuously.
 
 ## Find Paper by Tags
 
