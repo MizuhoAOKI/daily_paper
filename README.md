@@ -1,3 +1,4 @@
+![master](https://img.shields.io/github/last-commit/badges/shields/master)
 
 # Daily Paper
 Daily paper reading list on **Autonomous Driving** and **Robotics**, updating continuously.
