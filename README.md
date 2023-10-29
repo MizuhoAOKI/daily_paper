@@ -1,4 +1,4 @@
-![master](https://img.shields.io/github/last-commit/badges/shields/master)
+![last commit](https://img.shields.io/github/last-commit/MizuhoAOKI/daily_paper/main)
 
 # Daily Paper
 Daily paper reading list on **Autonomous Driving** and **Robotics**, updating continuously.
