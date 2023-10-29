@@ -1,9 +1,10 @@
-![last commit](https://img.shields.io/github/last-commit/MizuhoAOKI/daily_paper/main?style=flat-square)
 
-# Daily Paper
-Daily paper reading list on **Autonomous Driving** and **Robotics**, updating continuously.
+![last commit](https://img.shields.io/github/last-commit/MizuhoAOKI/daily_paper/main?style=flat-square&color=blue)
 
-## Find Paper by Tags
+# Favorite Papers
+A personal selection of attractive papers from the fields of **Autonomous Driving**,  **Robotics**, and related areas, updated continuously.
+
+## Find Papers by Tags
 
 - Control Methodology
     - [Model Predictive Control](#Model-Predictive-Control)
