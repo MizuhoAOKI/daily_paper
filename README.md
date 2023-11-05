@@ -2,7 +2,7 @@
 ![last commit](https://img.shields.io/github/last-commit/MizuhoAOKI/daily_paper/main?style=flat-square&color=blue)
 
 # Favorite Papers
-A personal selection of attractive papers from the fields of **Autonomous Driving**,  **Robotics**, and related areas, updated continuously.
+A personal selection of excellent papers from the fields of **Autonomous Driving**,  **Robotics**, and related areas, updated continuously.
 
 ## Find Papers by Tags
 
