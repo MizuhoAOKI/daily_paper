@@ -1,5 +1,7 @@
 
 ![last commit](https://img.shields.io/github/last-commit/MizuhoAOKI/daily_paper/main?style=flat-square&color=blue)
+![Static Badge](https://img.shields.io/badge/no_of_papers-90%2B-blue)
+
 
 # Excellent Papers
 A personal selection of excellent papers from the fields of **Autonomous Driving**,  **Robotics**, and related areas, updated continuously.
